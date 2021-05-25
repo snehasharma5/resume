@@ -332,7 +332,7 @@ a:hover, a:active, a:focus {
     }
     .custom-navbar.top-nav-collapse {
         background: #ffffff;
-        box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
+        box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
         padding: 0;
     }
 
@@ -383,7 +383,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+
 }
 
 #about .about-thumb,
@@ -393,7 +393,7 @@ a:hover, a:active, a:focus {
 
 #about .progress {
   background: #ffffff;
-  border-radius: 0px;
+  border-radius: 0;
   box-shadow: none;
   height: 2px;
 }
@@ -440,7 +440,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+
 }
 
 #experience .media-heading {
@@ -470,7 +470,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .media-heading {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 #education .media .fa {
@@ -494,7 +494,7 @@ a:hover, a:active, a:focus {
     background-position: center center;
     color: #ffffff;
     position: relative;
-    padding: 100px 0px;
+    padding: 100px 0;
 }
 
 #quotes .overlay {
@@ -548,7 +548,7 @@ a:hover, a:active, a:focus {
   background: transparent;
   border: none;
   border-bottom: 1px solid #E3AE57;
-  border-radius: 0px;
+  border-radius: 0;
   box-shadow: none;
   color: #ffffff;
   font-size: 18px;
